@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\vosure\source\repos\tic-tac-toe\tic-tac-toe\main.cpp(190): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Tic-Tac-Toe.vcxproj -> C:\Users\vosure\Source\Repos\Tic-Tac-Toe\Debug\Tic-Tac-Toe.exe
